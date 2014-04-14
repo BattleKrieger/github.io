@@ -1,0 +1,11 @@
+name: Bankraub
+version: 1.0
+author: BattelKrieger
+website: http://bukkit.org/
+
+main: raub.raub
+commands:
+     Heilen:
+          description: Heilung (Name)
+          usage:
+          permission: Bankraub.Heilen
